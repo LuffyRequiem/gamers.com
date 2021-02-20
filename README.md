@@ -4,4 +4,4 @@ https://games.awdrgyjil1234.repl.co
 https://gamesunblocked.glitch.me/
 https://wmpuc.csb.app/
 https://friendly-nobel-9df947.netlify.app/
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/easella/gamers.com/)
